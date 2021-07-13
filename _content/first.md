@@ -3,11 +3,6 @@ title: My first post!
 date: 2021-02-14T19:05:27.220Z
 ---
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
-
 You will like those projects!
 
 ---
